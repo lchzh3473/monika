@@ -1,0 +1,24 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "A Monika wallpaper that will say something every once in a while. :)\nIt was written in a short period of time, so I apologize for any bugs or weird issues.\n\nHere's some answers to some questions you may have:\n\nQ: How often does she talk?\nA: Once per hour. It's intended to only distract you every once in a while.\n\nQ: Can the lines be customized?\nA: Yup, just change them in the MonikaLines.json file within the directory for this wallpaper.\n\nQ: Why doesn't the outer space background look identical to how it looks in the game?\nA: Couldn't figure out how to replicate it. If someone can share a method for replicating the effect in PIXI.js, I will add.\n\nQ: How come the images look kind of low-res?\nA: Up-scaled them from the originals. If someone can provide a higher quality version for 1080p, I will (probably) fix.\n\nQ: How do I set up my name?\nA: It should show you at the start. Just find the directory and edit the Name.txt.\n\nQ: Can you combine this will Live2D?\nA: Yup, but I'm not going to waste time on making the model. If someone can provide a fully functional Live2D Monika, then I'll add it (if I'm not feeling lazy).",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.3137254901960784 0.1450980392156863 0.10196078431372549"
+			}
+		}
+	},
+	"monetization" : false,
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "Monika (Talking Edition)",
+	"type" : "web",
+	"visibility" : "public"
+}
